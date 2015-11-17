@@ -1,8 +1,12 @@
 console.log("makin merge problems!!!!!");
 
-console.log("joe bookreader");
+console.log("joe bookreader1");
 
-var array = ['dog', 'kitty', 'hampster', 'dragon'];
+console.log("joe bookreader2");
+
+console.log("joe bookreader3");
+
+var array = ['dog11', 'kitty11', 'hampster11', 'dragon11'];
 
 console.log(array[3])
 
