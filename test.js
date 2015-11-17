@@ -1,4 +1,6 @@
-console.log("!!!!!!makin merge problems!!!!!");
+console.log("makin merge problems!!!!!");
+
+console.log("joe bookreader");
 
 var array = ['dog', 'kitty', 'hampster', 'dragon'];
 
